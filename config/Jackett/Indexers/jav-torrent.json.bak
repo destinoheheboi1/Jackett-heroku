@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://jav-torrent.org/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "XSRF-TOKEN=eyJpdiI6Im5UamExdUpzOUNjajRwb2ExNFNzNnc9PSIsInZhbHVlIjoiTjNzZVoyXC9URGFoUmNzTlRvRmZPMUNXOXJoa2lWdnhpZk9nK0QrXC9CRDVJOEY0cmpFTHVzek9rQ2dvbVwvZTJQNCIsIm1hYyI6IjlhOTNlNjczZTgwYjlkNWNkY2RhZTljZmYwYWEzYTgzMmE1NGU4MDJkNzU3ZTY1NmFkMmU3NDhkZTdkOWRhYTIifQ%3D%3D; laravel_session=eyJpdiI6IjJjSlpsWEFVXC9LRFBNYzlRWm5wb2tBPT0iLCJ2YWx1ZSI6IlwvZG1wNlZ1aFlwazFtUUpcL3hpSldIWVBEXC9VenRCUHBRZmJwRlhraWZNUUwwUm4wbk1HNDRJQUVEXC9YYzNDV2trIiwibWFjIjoiYTc0Y2M2ODA1MDJiYzhiZGNjZjUxNDk0NWI2OGNlYjBhNjdkNjIyNzM3NmJiOWJlNTQzOTYzNDY3Y2I5ZTJiNSJ9"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]

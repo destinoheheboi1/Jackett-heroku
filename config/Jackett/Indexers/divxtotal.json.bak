@@ -3,19 +3,25 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://asnet.pw/"
+    "value": "https://www.divxtotal.ms/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": "PHPSESSID=80qj0ff1qbjunc3u00h010gds2"
+    "value": ""
   },
   {
     "id": "lasterror",
     "type": "hiddendata",
     "name": "LastError",
     "value": null
+  },
+  {
+    "id": "matchwordsintitle",
+    "type": "inputbool",
+    "name": "Match words in title",
+    "value": true
   },
   {
     "id": "tags",

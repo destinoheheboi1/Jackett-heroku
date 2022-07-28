@@ -1,0 +1,66 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://girotorrent.org/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "xbtitFM=deleted; uid=16644; pass=b661970740bcb0590cfaf0090d43ee31; xbtitFMLoginCookie=deleted; SMFCookie124=a%3A4%3A%7Bi%3A0%3Bs%3A5%3A%2216666%22%3Bi%3A1%3Bs%3A40%3A%22ea112665276d916a2873876f0a3529453c203b4d%22%3Bi%3A2%3Bi%3A1848233620%3Bi%3A3%3Bi%3A0%3B%7D; PHPSESSID=54sv6fjnl7en8bekr8ahs574ku; lasttorrentcomment=1659017621; lastseen=20220728161107"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "destinolol"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8F3PVf5nuypHnzXHLzySACGQ7Gq4JA6eeULJwEw-x8BXkZz15ozCwXFAvHdhgvI8fqJd_Z7G5CCCj83-W7_TXFU0SM8COC_oEhclkbbjlxYH9JwEwxY2oa1hPGuxbgqdnA"
+  },
+  {
+    "id": "searchfreeleechonly",
+    "type": "inputbool",
+    "name": "Search freeleech only",
+    "value": false
+  },
+  {
+    "id": "sortrequestedfromsite",
+    "type": "inputselect",
+    "name": "Sort requested from site",
+    "value": "3",
+    "options": {
+      "3": "created",
+      "5": "seeders",
+      "4": "size",
+      "2": "title"
+    }
+  },
+  {
+    "id": "orderrequestedfromsite",
+    "type": "inputselect",
+    "name": "Order requested from site",
+    "value": "2",
+    "options": {
+      "2": "desc",
+      "1": "asc"
+    }
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]

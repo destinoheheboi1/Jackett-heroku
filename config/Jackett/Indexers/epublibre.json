@@ -3,13 +3,13 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://asnet.pw/"
+    "value": "https://www.epublibre.org/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": "PHPSESSID=80qj0ff1qbjunc3u00h010gds2"
+    "value": "csrf_cookie_name=12b1971f09d4a6cc711319a1304bc6cd; epl_session=c5e0874e4413262908ed9a02d23154cc"
   },
   {
     "id": "lasterror",

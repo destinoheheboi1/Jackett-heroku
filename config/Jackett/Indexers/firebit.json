@@ -3,13 +3,13 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://asnet.pw/"
+    "value": "https://firebit.net/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": "PHPSESSID=80qj0ff1qbjunc3u00h010gds2"
+    "value": "PHPSESSID=mvdqc49v79dg7701a3kpt5ngp4; user_login=deleted; user_pass=deleted"
   },
   {
     "id": "lasterror",

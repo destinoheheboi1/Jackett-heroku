@@ -1,0 +1,66 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://ilcorsaroblu.org/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "xbtitFM=481e3a870c983bf512b6161104250258; ilCorSaRoBlu=deleted; uid=41413; pass=a81e92e1e64bbc3814e8dfed8816a9fa; xbtitFMLoginCookie=deleted"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "destinolol"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8F3PVf5nuypHnzXHLzySACHkrZucWVaH3VtzuCGv16M5aMlx75OEdp2-LTjbHatxSWbrOUnKPdV2RG9koeF0Mm1zhmzbZmQNG1qjnAPYGEnuShnosMpu-hdJEANJ3jOQ3A"
+  },
+  {
+    "id": "searchfreeleechonly",
+    "type": "inputbool",
+    "name": "Search freeleech only",
+    "value": false
+  },
+  {
+    "id": "sortrequestedfromsite",
+    "type": "inputselect",
+    "name": "Sort requested from site",
+    "value": "3",
+    "options": {
+      "3": "created",
+      "5": "seeders",
+      "4": "size",
+      "2": "title"
+    }
+  },
+  {
+    "id": "orderrequestedfromsite",
+    "type": "inputselect",
+    "name": "Order requested from site",
+    "value": "2",
+    "options": {
+      "2": "desc",
+      "1": "asc"
+    }
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]

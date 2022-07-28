@@ -3,13 +3,13 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://asnet.pw/"
+    "value": "http://gtorrent.pro/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": "PHPSESSID=80qj0ff1qbjunc3u00h010gds2"
+    "value": "PHPSESSID=13r4mr609erva7qg07cpa8cqk7; dle_user_id=deleted; dle_password=deleted; dle_hash=deleted"
   },
   {
     "id": "lasterror",

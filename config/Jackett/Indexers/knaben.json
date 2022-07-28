@@ -3,19 +3,31 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://asnet.pw/"
+    "value": "https://knaben.eu/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": "PHPSESSID=80qj0ff1qbjunc3u00h010gds2"
+    "value": "uKnaben=STR687"
   },
   {
     "id": "lasterror",
     "type": "hiddendata",
     "name": "LastError",
     "value": null
+  },
+  {
+    "id": "sortrequestedfromsite",
+    "type": "inputselect",
+    "name": "Sort requested from site",
+    "value": "Date",
+    "options": {
+      "Date": "created",
+      "Seeders": "seeders",
+      "Size": "size",
+      "Title": "title"
+    }
   },
   {
     "id": "tags",

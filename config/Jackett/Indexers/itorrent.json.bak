@@ -3,13 +3,13 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "http://www.animeclipse.com/"
+    "value": "https://itorrent.ws/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": "ACphpbb2__data=a%3A2%3A%7Bs%3A11%3A%22autologinid%22%3Bs%3A0%3A%22%22%3Bs%3A6%3A%22userid%22%3Bi%3A-1%3B%7D; ACphpbb2__sid=2afff5ac56eacc5bf37e8f2bdc544fe9; ACphpbb2____lastvisit=1659024239"
+    "value": null
   },
   {
     "id": "lasterror",
@@ -21,11 +21,12 @@
     "id": "sortrequestedfromsite",
     "type": "inputselect",
     "name": "Sort requested from site",
-    "value": "added",
+    "value": "date_added",
     "options": {
-      "added": "created",
+      "date_added": "created",
       "seeders": "seeders",
-      "size": "size"
+      "size": "size",
+      "title": "title"
     }
   },
   {

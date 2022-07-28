@@ -3,7 +3,7 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://1337x.to/"
+    "value": "https://badasstorrents.com/"
   },
   {
     "id": "cookieheader",
@@ -21,31 +21,32 @@
     "id": "downloadlink",
     "type": "inputselect",
     "name": "Download link",
-    "value": "http://itorrents.org/",
+    "value": "magnet:?xt=",
     "options": {
-      "http://itorrents.org/": "iTorrents.org",
-      "magnet:": "magnet"
+      "/download/": ".torrent",
+      "magnet:?xt=": "magnet"
     }
   },
   {
     "id": "downloadlink(fallback)",
     "type": "inputselect",
     "name": "Download link (fallback)",
-    "value": "magnet:",
+    "value": "/download/",
     "options": {
-      "http://itorrents.org/": "iTorrents.org",
-      "magnet:": "magnet"
+      "/download/": ".torrent",
+      "magnet:?xt=": "magnet"
     }
   },
   {
     "id": "sortrequestedfromsite",
     "type": "inputselect",
     "name": "Sort requested from site",
-    "value": "time",
+    "value": "date",
     "options": {
-      "time": "created",
-      "seeders": "seeders",
-      "size": "size"
+      "date": "created",
+      "seeds": "seeders",
+      "size": "size",
+      "title": "title"
     }
   },
   {

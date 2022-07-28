@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://tt.animedia.tv/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "anime_last_visit=1343664247; anime_last_activity=1659024671; anime_tracker=%7B%220%22%3A%22anime%2Forient%22%2C%221%22%3A%22anime%2Fpovelitel-tmy-na-podrabotke-2%22%2C%222%22%3A%22anime%2Fsozdannyj-v-bezdne%22%2C%223%22%3A%22anime%2Fmoya-gerojskaya-akademiya%22%2C%224%22%3A%22anime%2Fvoshozhdenie-geroya-schita%22%2C%22token%22%3A%22cbaf0d8d74741a4900036b7983bb0b3955a2f31ccf43786094d862a442e4de7787b440ff3dbf0be54b1e22103803399b%22%7D; anime_csrf_token=8c368ca5455601b80929cf0467db417c83e569e3; anime_stashid=%7B%22id%22%3A%22008e84805da21509e33ac5f5b3aae0e545c22db7%22%2C%22dt%22%3A1659024247%7D"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]
