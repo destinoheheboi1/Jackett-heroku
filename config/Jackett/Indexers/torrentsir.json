@@ -3,13 +3,13 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://yts.mx/"
+    "value": "https://torrentsir63.com/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": "PHPSESSID=tke9l7d1btpjri5hutjtmoq1nt"
+    "value": "PHPSESSID=291o4qgncaed1dc4dmil2otqf0; 2a0d2363701f23f8a75028924a3af643=MTUxLjY1LjE1LjE3Ng%3D%3D"
   },
   {
     "id": "lasterror",

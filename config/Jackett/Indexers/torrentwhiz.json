@@ -3,13 +3,13 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://yts.mx/"
+    "value": "https://torrentwiz47.com/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": "PHPSESSID=tke9l7d1btpjri5hutjtmoq1nt"
+    "value": "PHPSESSID=s0tmvmmcq3ot8u6jjn2glhd5o4; 2a0d2363701f23f8a75028924a3af643=MTUxLjY1LjE1LjE3Ng%3D%3D"
   },
   {
     "id": "lasterror",
