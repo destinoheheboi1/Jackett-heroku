@@ -3,13 +3,13 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://www.torlock2.com/"
+    "value": "https://pornoslab.com/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": ""
+    "value": "PHPSESSID=lmgbm796ag74ksls0lhe3scd77"
   },
   {
     "id": "lasterror",
@@ -18,14 +18,13 @@
     "value": null
   },
   {
-    "id": "sortrequestedfromsite(onlyworksforsearchwithkeywords)",
+    "id": "sortrequestedfromsite",
     "type": "inputselect",
-    "name": "Sort requested from site (only works for search with keywords)",
-    "value": "added",
+    "name": "Sort requested from site",
+    "value": "date",
     "options": {
-      "added": "created",
-      "seeds": "seeders",
-      "size": "size"
+      "date": "created",
+      "title": "title"
     }
   },
   {

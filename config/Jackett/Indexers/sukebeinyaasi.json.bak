@@ -3,13 +3,13 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://www.torlock2.com/"
+    "value": "https://sukebei.nyaa.si/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": ""
+    "value": null
   },
   {
     "id": "lasterror",
@@ -18,13 +18,31 @@
     "value": null
   },
   {
-    "id": "sortrequestedfromsite(onlyworksforsearchwithkeywords)",
+    "id": "category",
     "type": "inputselect",
-    "name": "Sort requested from site (only works for search with keywords)",
-    "value": "added",
+    "name": "Category",
+    "value": "0_0",
     "options": {
-      "added": "created",
-      "seeds": "seeders",
+      "0_0": "All categories",
+      "1_0": "Art",
+      "1_1": "Art - Anime",
+      "1_2": "Art - Doujinshi",
+      "1_3": "Art - Games",
+      "1_4": "Art - Manga",
+      "1_5": "Art - Pictures",
+      "2_0": "Real Life",
+      "2_1": "Real Life - Photobooks and Pictures",
+      "2_2": "Real Life - Videos"
+    }
+  },
+  {
+    "id": "sortrequestedfromsite",
+    "type": "inputselect",
+    "name": "Sort requested from site",
+    "value": "id",
+    "options": {
+      "id": "created",
+      "seeders": "seeders",
       "size": "size"
     }
   },

@@ -3,13 +3,13 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://www.torlock2.com/"
+    "value": "http://megapeer.ru/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": ""
+    "value": null
   },
   {
     "id": "lasterror",
@@ -18,14 +18,20 @@
     "value": null
   },
   {
-    "id": "sortrequestedfromsite(onlyworksforsearchwithkeywords)",
+    "id": "striprussianletters",
+    "type": "inputbool",
+    "name": "Strip Russian Letters",
+    "value": false
+  },
+  {
+    "id": "sortrequestedfromsite",
     "type": "inputselect",
-    "name": "Sort requested from site (only works for search with keywords)",
-    "value": "added",
+    "name": "Sort requested from site",
+    "value": "0",
     "options": {
-      "added": "created",
-      "seeds": "seeders",
-      "size": "size"
+      "0": "created",
+      "1": "title",
+      "2": "size"
     }
   },
   {
@@ -34,8 +40,8 @@
     "name": "Order requested from site",
     "value": "desc",
     "options": {
-      "desc": "desc",
-      "asc": "asc"
+      "0": "desc",
+      "1": "asc"
     }
   },
   {

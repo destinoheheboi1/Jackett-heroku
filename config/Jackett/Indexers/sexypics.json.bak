@@ -3,13 +3,13 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://www.torlock2.com/"
+    "value": "https://www.sexy-pics.us/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": ""
+    "value": null
   },
   {
     "id": "lasterror",
@@ -18,13 +18,13 @@
     "value": null
   },
   {
-    "id": "sortrequestedfromsite(onlyworksforsearchwithkeywords)",
+    "id": "sortrequestedfromsite",
     "type": "inputselect",
-    "name": "Sort requested from site (only works for search with keywords)",
-    "value": "added",
+    "name": "Sort requested from site",
+    "value": "age",
     "options": {
-      "added": "created",
-      "seeds": "seeders",
+      "age": "created",
+      "se": "seeders",
       "size": "size"
     }
   },

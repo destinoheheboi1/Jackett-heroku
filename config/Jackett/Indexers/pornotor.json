@@ -3,13 +3,13 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://www.torlock2.com/"
+    "value": "http://pornotor.org/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": ""
+    "value": "PHPSESSID=a5mdveivdeb8kmejd09968tkh0"
   },
   {
     "id": "lasterror",
@@ -18,14 +18,15 @@
     "value": null
   },
   {
-    "id": "sortrequestedfromsite(onlyworksforsearchwithkeywords)",
+    "id": "sortrequestedfromsite",
     "type": "inputselect",
-    "name": "Sort requested from site (only works for search with keywords)",
-    "value": "added",
+    "name": "Sort requested from site",
+    "value": "4",
     "options": {
-      "added": "created",
-      "seeds": "seeders",
-      "size": "size"
+      "4": "created",
+      "7": "seeders",
+      "5": "size",
+      "1": "title"
     }
   },
   {

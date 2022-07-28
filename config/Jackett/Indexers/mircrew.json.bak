@@ -1,0 +1,38 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://mircrew-releases.org/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "phpbb3_12hgm_u=9142; phpbb3_12hgm_sid=258c5e26a6e3a6272b573f4a4d722ead; phpbb3_12hgm_k=e6ejp1wocn0pg9xl"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "destinooh"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8F3PVf5nuypHnzXHLzySACGan5P_S_iLvdfkRW9LV3dC6aBGG8TcFMH8LtsR4pPBdxnSPijPGSbQ9Lihq4ps6LovWWX5FpN5Eqxlx0H5hkCOoN0nnYoEfa2a7p3CZbKXDg"
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]

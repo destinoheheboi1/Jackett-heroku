@@ -3,13 +3,13 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://www.torlock2.com/"
+    "value": "https://www.shanaproject.com/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": ""
+    "value": null
   },
   {
     "id": "lasterror",
@@ -18,24 +18,25 @@
     "value": null
   },
   {
-    "id": "sortrequestedfromsite(onlyworksforsearchwithkeywords)",
+    "id": "sortrequestedfromsite",
     "type": "inputselect",
-    "name": "Sort requested from site (only works for search with keywords)",
-    "value": "added",
+    "name": "Sort requested from site",
+    "value": "date",
     "options": {
-      "added": "created",
-      "seeds": "seeders",
-      "size": "size"
+      "date": "created",
+      "ep": "episode",
+      "fsize": "size",
+      "title": "title"
     }
   },
   {
     "id": "orderrequestedfromsite",
     "type": "inputselect",
     "name": "Order requested from site",
-    "value": "desc",
+    "value": "Descending",
     "options": {
-      "desc": "desc",
-      "asc": "asc"
+      "Descending": "desc",
+      "Ascending": "asc"
     }
   },
   {

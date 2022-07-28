@@ -3,13 +3,13 @@
     "id": "sitelink",
     "type": "inputstring",
     "name": "Site Link",
-    "value": "https://www.torlock2.com/"
+    "value": "https://nitro.to/"
   },
   {
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": ""
+    "value": "7e240xde74rw_xx=2; __pgstyle=nB; __pgstyle2=deleted"
   },
   {
     "id": "lasterror",
@@ -18,12 +18,12 @@
     "value": null
   },
   {
-    "id": "sortrequestedfromsite(onlyworksforsearchwithkeywords)",
+    "id": "sortrequestedfromsite",
     "type": "inputselect",
-    "name": "Sort requested from site (only works for search with keywords)",
-    "value": "added",
+    "name": "Sort requested from site",
+    "value": "data",
     "options": {
-      "added": "created",
+      "data": "created",
       "seeds": "seeders",
       "size": "size"
     }
