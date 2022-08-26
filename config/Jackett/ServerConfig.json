@@ -10,7 +10,7 @@
   "BasePathOverride": "",
   "CacheEnabled": true,
   "CacheTtl": 2100,
-  "CacheMaxResultsPerIndexer": 1000,
+  "CacheMaxResultsPerIndexer": 5000,
   "FlareSolverrUrl": "",
   "OmdbApiKey": "",
   "OmdbApiUrl": "",
